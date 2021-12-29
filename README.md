@@ -11,3 +11,7 @@ Orientação a Objetos com C++:_Trabalhando com heranca
 <li>Aprendemos a acessar membros da classe base
 <li>Vimos sobre ordem de chamada de construtores e destrutores
 <li>Vimos como evitar múltiplos IFs com OO
+<li>Aprendemos a usar sobrescrita de métodos virtuais
+<li>Entendemos o uso da palavra override
+<li>Conhecemos o funcionamento da vtable
+<li>Entendemos a importância de destrutores virtuais
