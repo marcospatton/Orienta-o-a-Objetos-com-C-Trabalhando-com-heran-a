@@ -7,3 +7,7 @@ Orientação a Objetos com C++:_Trabalhando com heranca
 <li>Vimos como usar herança para reutilizar código
 <li>Aprendemos sobre o modificador protected
 <li>Entendemos na prática o que significa a relação de herança
+<li>Entendemos melhor os conceitos por trás da herança em OO
+<li>Aprendemos a acessar membros da classe base
+<li>Vimos sobre ordem de chamada de construtores e destrutores
+<li>Vimos como evitar múltiplos IFs com OO
