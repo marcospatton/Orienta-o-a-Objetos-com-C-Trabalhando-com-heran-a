@@ -15,3 +15,6 @@ Orientação a Objetos com C++:_Trabalhando com heranca
 <li>Entendemos o uso da palavra override
 <li>Conhecemos o funcionamento da vtable
 <li>Entendemos a importância de destrutores virtuais
+<li>Entendemos o que é um método puramente virtual
+<li>Vimos como herança pode nos ajudar a implementar algoritmos complexos
+<li>Conhecemos o conceito de classe abstrata
