@@ -18,3 +18,6 @@ Orientação a Objetos com C++:_Trabalhando com heranca
 <li>Entendemos o que é um método puramente virtual
 <li>Vimos como herança pode nos ajudar a implementar algoritmos complexos
 <li>Conhecemos o conceito de classe abstrata
+<li>Vimos outra funcionalidade da herança além de reutilizar código: Polimorfismo
+<li>Aprendemos o conceito de polimorfismo na prática
+<li>Vimos quando e como polimorfismo pode ser útil na modelagem de um sistema
