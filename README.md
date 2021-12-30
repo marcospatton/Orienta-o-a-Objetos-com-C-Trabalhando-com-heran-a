@@ -21,3 +21,7 @@ Orientação a Objetos com C++:_Trabalhando com heranca
 <li>Vimos outra funcionalidade da herança além de reutilizar código: Polimorfismo
 <li>Aprendemos o conceito de polimorfismo na prática
 <li>Vimos quando e como polimorfismo pode ser útil na modelagem de um sistema
+<li>Conhecemos o conceito de herança múltipla
+<li>Aprendemos sobre o problema diamante
+<li>Vimos sobre herança virtual
+<li>Aprendemos sobre classes puramente virtuais (ou interfaces)
